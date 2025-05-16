@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645541583239",
+    "project_id": "crud-dcbaf",
+    "storage_bucket": "crud-dcbaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645541583239:android:8bc762b7bfeac865875b22",
+        "android_client_info": {
+          "package_name": "com.example.curd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAue4Z0uRBwVhi3TAJNGLTBvypJHrXCCPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
